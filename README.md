@@ -29,7 +29,7 @@ This section contains helpful links to other content. It isn’t required, so co
 ## Frameworks built with Sass:
 - [Compass is an open-source CSS Authoring Framework](http://compass-style.org/)
 - [Bourbon is a lightweight Sass tool set](https://www.bourbon.io/):
-..* Dependency-free: Bourbon is pure Sass.
-..* Human-readable: We aim for clarity over brevity.
-..* Lightweight: Zero output post-install and has no visual opinion.
+  * Dependency-free: Bourbon is pure Sass.
+  * Human-readable: We aim for clarity over brevity.
+  * Lightweight: Zero output post-install and has no visual opinion.
 - [Susy is a lightweight grid-layout engine for Sass](https://www.oddbird.net/susy/)
