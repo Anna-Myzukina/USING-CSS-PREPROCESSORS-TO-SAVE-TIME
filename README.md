@@ -1,5 +1,7 @@
 # USING-CSS-PREPROCESSORS-TO-SAVE-TIME
 HTML and CSS USING CSS PREPROCESSORS TO SAVE TIME
+[Sass Tutorial](https://www.w3schools.com/sass/default.asp)
+[Препроцессор SASS / Урок #1 - Что такое SASS, SCSS. Установка](https://www.youtube.com/watch?v=TOlqVNC86XI)
 
 ## Learning Outcomes
 - What is a preprocessor?
